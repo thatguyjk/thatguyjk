@@ -14,9 +14,11 @@ Below is a list of the various languages and technology I have used throughout m
 - Blender
 - Autodesk Maya / XSI (no longer in production)
 
-[![LinkedIn social icon](https://github.com/thatguyjk/thatguyjk/blob/main/linkedin.png)](https://www.linkedin.com/in/thatguyjk/)
-
+## Social links
+<a href="https://www.linkedin.com/in/thatguyjk/" style="margin-left: 32px;" ><img src="https://github.com/thatguyjk/thatguyjk/blob/main/linkedin.png" alt="linkedin logo" title="My LinkedIn profile" width="48" style="margin-left: 32px;" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/thatguyJK" style="margin-left: 32px;" ><img src="https://github.com/thatguyjk/thatguyjk/blob/main/twitter.png" alt="twitter logo" title="My Twitter profile" width="48" style="margin-left: 32px;" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCYQzDM7M160MiVwAjkqIYJQ" style="margin-left: 32px;" ><img src="https://github.com/thatguyjk/thatguyjk/blob/main/youtube.png" alt="youtube logo" title="My Youtube profile" width="48" style="margin-left: 32px;" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/thatguyjk3d/" style="margin-left: 32px;" ><img src="https://github.com/thatguyjk/thatguyjk/blob/main/instagram.png" alt="instagram logo" title="My instagram profile" width="48" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:jonathank.kelly@gmail.com" style="margin-left: 32px;"><img src="https://github.com/thatguyjk/thatguyjk/blob/main/gmail.png" alt="email me" title="My email address" width="48" /></a>
 <!--
+
+
 **thatguyjk/thatguyjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
