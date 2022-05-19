@@ -14,7 +14,7 @@ Below is a list of the various languages and technology I have used throughout m
 - Blender
 - Autodesk Maya / XSI (no longer in production)
 
-[![LinkedIn](https://github.com/thatguyjk/thatguyjk/blob/main/linkedin.png)][https://www.linkedin.com/in/thatguyjk/]
+[![LinkedIn social icon](https://github.com/thatguyjk/thatguyjk/blob/main/linkedin.png)](https://www.linkedin.com/in/thatguyjk/)
 
 <!--
 **thatguyjk/thatguyjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
