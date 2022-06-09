@@ -12,7 +12,7 @@ Below is a list of the various languages and technology I have used throughout m
 - Next.js / GatsbyJS
 - Smart Contracts w/ Solidity
 - Unity
-- Blender
+- Blender (current tool I use for 3D modeling and animation)
 - Autodesk Maya / XSI (no longer in production)
 
 ### Social links
