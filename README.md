@@ -6,10 +6,11 @@ My name is Jonathan but, on the web I go by ThatGuyJK. I am a software engineer 
 Below is a list of the various languages and technology I have used throughout my career on different projects, both personal and professional.
 - HTML/CSS/Javascript (including Node.js and some Typescript)
 - C/C++
-- Rust
+- Rust (currently learning)
 - OpenGL (both fixed function and _modern_ versions)
 - Three.js
 - Next.js / GatsbyJS
+- Smart Contracts w/ Solidity
 - Unity
 - Blender
 - Autodesk Maya / XSI (no longer in production)
