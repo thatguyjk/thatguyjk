@@ -4,12 +4,12 @@ My name is Jonathan but, on the web I go by ThatGuyJK. I am a software engineer 
 
 ### Technologies I have used
 Below is a list of the various languages and technology I have used throughout my career on different projects, both personal and professional.
-- HTML/CSS/Javascript (including Node.js and some Typescript)
+- HTML/CSS/Javascript (including some Node.js and Typescript)
 - C/C++
 - Rust (currently learning)
 - Three.js
 - Next.js / GatsbyJS
-- Smart Contracts w/ Solidity
+- Smart Contracts w/ Solidity (currently learning)
 - Unity
 - Blender (current tool I use for 3D modeling and animation)
 
