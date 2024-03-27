@@ -1,11 +1,11 @@
 # Hello and welcome to my Github profile! 😄👋
 
-My name is Jonathan but, on the web I go by ThatGuyJK. I am a software engineer (a majority of what I do is web development) but I have also done work as a professional 3D artist in the past (I am slowly getting back into it). On this page you will find links to various projects I have built as well as some repositories I find highly interesting and informational as a developer!
+My name is Jonathan but, on the web I go by ThatGuyJK. I am a software engineer (a majority of what I do is web development) but I have also done work as a professional 3D artist in the past (I am slowly getting back into it). In my Github profile you will find links to various projects I have built as well as some repositories I find highly interesting and informational as a developer!
 
 ### Technologies I have used
 Below is a list of the various languages and technology I have used throughout my career on different projects, both personal and professional.
 - HTML/CSS/Javascript (including some Node.js and Typescript)
-- Python
+- Python (including Flask and Django)
 - Three.js
 - Next.js / GatsbyJS
 - Smart Contracts w/ Solidity (currently learning)
