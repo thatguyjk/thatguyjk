@@ -14,7 +14,7 @@ Below is a (non-exhaustive) list of the various languages and technologies I hav
 - Smart Contracts w/ Solidity
 - Unity Game Engine (C#)
   
-### Social links
+### You can connect with me at the folloing social links
 [![linkedin logo](https://github.com/thatguyjk/thatguyjk/blob/main/linkedin.png)](https://www.linkedin.com/in/jonathankkelly/)
 [![twitter logo](https://github.com/thatguyjk/thatguyjk/blob/main/twitter.png)](https://twitter.com/thatguyJK)
 [![youtube logo](https://github.com/thatguyjk/thatguyjk/blob/main/youtube.png)](https://www.youtube.com/channel/UCYQzDM7M160MiVwAjkqIYJQ)
