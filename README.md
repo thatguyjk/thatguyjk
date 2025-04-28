@@ -15,4 +15,19 @@ Below is a list of the various languages and technology I have used throughout m
 - Unity Game Engine (C#)
   
 ### Social links
-<a href="https://www.linkedin.com/in/jonathankkelly/" style="margin-left: 32px;" ><img src="https://github.com/thatguyjk/thatguyjk/blob/main/linkedin.png" alt="linkedin logo" title="My LinkedIn profile" width="48" style="margin-left: 32px;" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/thatguyJK" style="margin-left: 32px;" ><img src="https://github.com/thatguyjk/thatguyjk/blob/main/twitter.png" alt="twitter logo" title="My Twitter profile" width="48" style="margin-left: 32px;" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCYQzDM7M160MiVwAjkqIYJQ" style="margin-left: 32px;" ><img src="https://github.com/thatguyjk/thatguyjk/blob/main/youtube.png" alt="youtube logo" title="My Youtube profile" width="48" style="margin-left: 32px;" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/thatguyjkdev/" style="margin-left: 32px;" ><img src="https://github.com/thatguyjk/thatguyjk/blob/main/instagram.png" alt="instagram logo" title="My instagram profile" width="48" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jonathankkelly/" style="margin-left: 32px; display: inline-block;">
+    <img src="https://github.com/thatguyjk/thatguyjk/blob/main/linkedin.png" alt="linkedin logo" title="My LinkedIn profile" width="48" style="margin-left: 32px;" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/thatguyJK" style="margin-left: 32px; display: inline-block;"><img src="https://github.com/thatguyjk/thatguyjk/blob/main/twitter.png" alt="twitter logo" title="My Twitter profile" width="48" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCYQzDM7M160MiVwAjkqIYJQ" style="margin-left: 32px; display: inline-block;">
+    <img src="https://github.com/thatguyjk/thatguyjk/blob/main/youtube.png" alt="youtube logo" title="My Youtube profile" width="48" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/thatguyjkdev/" style="margin-left: 32px; display: inline-block;">
+    <img src="https://github.com/thatguyjk/thatguyjk/blob/main/instagram.png" alt="instagram logo" title="My instagram profile" width="48" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.threads.com/@thatguyjkdev" style="margin-left: 32px; display: inline-block;">
+    <img src="https://github.com/thatguyjk/thatguyjk/blob/main/threads_logo.png" alt="threads app logo" title="My Threads profile" width="48" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://bsky.app/profile/thatguyjk.dev" style="margin-left: 32px; display: inline-block;">
+    <img src="https://github.com/thatguyjk/thatguyjk/blob/main/bluesky_logo.png" alt="bluesky app logo" title="My Bluesky profile" width="48" />
+</a>
