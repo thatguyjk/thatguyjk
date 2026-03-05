@@ -8,10 +8,8 @@ Below is a (non-exhaustive) list of the various languages and technologies I hav
 - Python (including Django and Flask)
 - C/C++
 - React.js
-- Angular.js
 - Three.js
 - Next.js 
-- Smart Contracts w/ Solidity
 - Unity Game Engine (C#)
   
 ### You can connect with me at the folloing social links
