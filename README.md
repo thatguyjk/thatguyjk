@@ -5,12 +5,11 @@ My name is Jonathan but, on the web I go by ThatGuyJK. I am a software engineer 
 ### Tech Stack
 Below is a (non-exhaustive) list of the various languages and technologies I have used throughout my career on different projects, both personal and professional.
 - HTML/CSS/Javascript (including Node.js and Typescript)
-- Python (including Django and Flask)
+- Python (Django and Flask)
 - C/C++
 - React.js
 - Three.js
 - Next.js 
-- Unity Game Engine (C#)
   
 ### You can connect with me at the folloing social links
 [![linkedin logo](https://github.com/thatguyjk/thatguyjk/blob/main/linkedin.png)](https://www.linkedin.com/in/jonathankkelly/)
